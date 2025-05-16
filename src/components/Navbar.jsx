@@ -10,7 +10,7 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
             <div className="container">
                 <Link className="navbar-brand" to="/">
-                    <i className="bi bi-currency-exchange me-2"></i>КонвертерВалют
+                    <i className="bi bi-currency-exchange me-2"></i>КонвертерВалют_React
                 </Link>
                 <button
                     className="navbar-toggler"
